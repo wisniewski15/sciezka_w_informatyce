@@ -14,4 +14,10 @@
 2. Nauka nowych technologii,
 3. Otrzymać stypendium
 
+_ZNANE TECHNOLOGIE, narzędzia i obszary zainteresowań_
 
+1. VSCode
+2. Git
+3. Linux
+4. CyberSecurity
+5. DevOps
